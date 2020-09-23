@@ -1,0 +1,444 @@
+
+.banner
+{
+  width: 100%;
+}
+
+video
+{
+  width: 100%;
+}
+a
+{
+  color: #c5688c;
+}
+p{
+  font-size: 11px;
+}
+.img100
+{
+  width: 100%;
+}
+.mt10
+{
+  margin-top: 10px;;
+}
+.mt20
+{
+  margin-top: 20px;;
+}
+.mt30
+{
+  margin-top: 30px;;
+}
+
+.textcenter
+{
+  text-align: center;
+}
+.header1
+{
+  width: 30%;
+  margin: 20px auto;
+  color: #260072;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.header7
+{
+  width: 70%;
+  margin: 20px auto;
+  color: #260072;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.boxpinkinner
+{
+  min-height: 500px;
+}
+.boxmain
+{
+  width: 30%;
+  float: left;
+  margin-right: 3%;
+}
+.boxpink
+{
+  background-color: #fff;
+  border-top: 5px solid #fc2f8f;
+  border-left: 1px solid #fc2f8f;
+  border-right: 1px solid #fc2f8f;
+  width: 100%;
+  float: left;
+  margin-right: 20px;
+  min-height: 570px;
+}
+
+.boxpink h3
+{
+  color: #fc2f8f;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bolder;
+}
+.boxyellow
+{
+  background-color: #fff;
+  border-top: 5px solid #f6a000;
+  border-left: 1px solid #f6a000;
+  border-right: 1px solid #f6a000;
+  width: 100%;
+  float: left;
+  margin-right: 20px;
+  min-height: 570px;
+}
+.boxyellow h3
+{
+  color: #f6a000;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bolder;
+}
+.boxpurple
+{
+  background-color: #fff;
+  border-top: 5px solid #6f489e;
+  border-left: 1px solid #6f489e;
+  border-right: 1px solid #6f489e;
+  width: 100%;
+  float: left;
+  margin-right: 20px;
+  min-height: 570px;
+}
+.boxpurple h3
+{
+  color: #4d1b89;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bolder;
+}
+.boxpink img
+{
+  width: 100%;
+}
+
+.boxicon
+{
+  width: 30%;
+  float: left;
+}
+
+.boxcontent
+{
+  width: 60%;
+  float: left;
+}
+
+.boxyellow img
+{
+  width: 100%;
+}
+
+.boxpurple img
+{
+  width: 100%;
+}
+
+.container5
+{
+  width: 50%;
+  margin:10px auto;
+}
+
+.container6
+{
+  width: 60%;
+  margin:10px auto;
+}
+
+.container7
+{
+  width: 70%;
+  margin:10px auto;
+}
+.row
+{
+  width: 100%;
+  float: left;
+}
+.col60
+{
+  width: 60%;
+  float: left;
+}
+.col25
+{
+  width: 25%;
+  float: left;
+  margin: 10px;
+}
+.col30
+{
+  width: 30%;
+  float: left;
+}
+.col40
+{
+  width: 40%;
+  float: left;
+}
+.col60
+{
+  width: 60%;
+  float: left;
+}
+.col70
+{
+  width: 70%;
+  float: left;
+}
+.col5
+{
+  width: 50%;
+  float: left;
+}
+
+#video1
+{
+  margin-top: 25px;
+}
+#letconnect
+{
+  width: 20%;
+  float: right;
+  background-color: #fff;
+  position: absolute;
+    top: 128px;
+    right: 20px;
+    height: auto;
+    padding: 10px;
+}
+#letconnectinner
+{
+  border:1px solid #7c7b7b;
+}
+
+#letconnectinner h3
+{
+  font-size: 18px;
+  color: #3b057e;
+  padding-left: 10px;
+}
+#letconnectinner div
+{
+  margin-bottom: 15px;
+}
+#letconnectinner button{
+  background-color: #a94fbf;
+  color: #fff;
+  border: 0px;
+  padding: 10px 25px;
+}
+#letconnect input
+{
+      
+  border: 0px;
+     border-bottom: 1px solid #c0c0c0;
+     margin: 0px 0px 5px 10px;
+}
+.textinput
+{
+  width: 85%; 
+}
+#letconnect .terms
+{
+  font-size: 10px;
+}
+.sectionbg
+{
+  background-color: #eeeeee;
+  width: 100%;
+  float: left;
+  margin: 10px auto;
+}
+.btmimg1
+{
+  width: 100.7%;
+}
+.btmimg2
+{
+  width: 101%;
+}
+
+#sectionpurple
+{
+  width: 100%;
+  float: left;
+  background-color: #6f499e;
+  margin: 20px 0px;
+  padding: 30px 0px;
+}
+
+#sectionpurple h2
+{
+     width: 100%;
+    float: left;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+    font-size: 28px;
+    margin: 0px;
+}
+#sectionpurple h3
+{
+     width: 100%;
+    float: left;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+    font-size: 24px;
+    margin: 0px;
+}
+#sectionpurple p
+{
+  width: 100%;
+    float: left;
+    color: #fff;
+  text-align: center;
+  font-size: 20px;
+  margin: 0px;
+}
+
+#sectionpurple button
+{
+  background-color: #cb5a88;
+  color: #fff;
+  font-size: 14px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 0px;
+  font-weight: 700;
+}
+
+.epinner ul li
+{
+    list-style-type: none;
+    background: url(tickpup.png) no-repeat;
+    width: 80%;
+    padding-left: 45px;
+}
+
+.epinner ul
+{
+  border-bottom: 1px solid #9b81b4;
+  padding-bottom: 20px;
+  width: 80%;
+  padding-left: 0px;
+}
+
+.epinnerhead
+{
+  font-size: 17px;
+  font-weight: 500;
+  color: #fff;
+}
+.epinnercont
+{
+  font-size: 14px;
+  color: #fff;
+}
+.noborderbm
+{
+  border-bottom: 0px !important;
+}
+
+#xpadv
+{
+  float: left;
+  width: 100%;
+  background-color: #eeeeee;
+}
+#xpadv h2
+{
+  color: #511c91;
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#xpadvcontainer
+{
+  width: 70%;
+  margin: 0px auto;
+}
+.xpadvbox
+{
+      width: 29%;
+      min-height: 335px;
+      float: left;
+     padding: 10px;
+     margin: 10px;
+     background-color: #fff;
+}
+.xpadvbox h3
+{
+  color: #6f499e;
+  font-size: 16px;
+  text-align: center;
+}
+.xpadvimg
+{
+  min-height: 225px;
+}
+.xpadvimg1
+{
+  min-height: 194px;
+}
+.xpadvbox p
+{
+  font-size: 12px;
+  width: 80%;
+  margin: 5px auto;
+}
+#eptools h2
+{
+    width: 100%;
+    text-align: center;
+    color: #4c1b88;
+    font-size: 24px;
+    font-weight: normal;
+}
+#testimonial
+{
+  width: 100%;
+  float: left;
+  background-color: #412a5c;
+  padding: 10px 0px;
+}
+#testimonial h3{
+  width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    font-weight: normal;
+}
+footer
+{
+  width: 100%;
+  float: left;
+  background-color: #2d2d2d;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  padding: 10px 0px;
+}
+footer a
+{
+  color: #fff;
+  font-size: 12px;
+}
